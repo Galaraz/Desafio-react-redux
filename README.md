@@ -1,2 +1,2 @@
-# Desafio-react-redux-01
+# Desafio-react-redux
 redux com react
